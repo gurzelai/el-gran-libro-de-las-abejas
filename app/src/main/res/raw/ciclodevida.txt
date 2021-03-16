@@ -1,0 +1,25 @@
+Reina:
+Huevo	3 dias
+Larva	5 1/2 dias
+Operculado	7 1/2 días
+Pupa	8 días
+Período desarrollo	16 días
+Fertilidad 23 días
+
+Obreras:
+Huevo	3 dias
+Larva	6 dias
+Operculado	9 días
+Pupa	12 días
+Período desarrollo	21 días
+Fertilidad no tiene
+
+Zangano:
+Huevo	Larva	Operculado	Pupa	Período desarrollo	Fertilidad
+3 días	6 1/2 días	10 días	14 1/2 días	24 días	aprox. 38 días
+Huevo	3 dias
+Larva	6 1/2 dias
+Operculado	10 días
+Pupa	14 1/2 días
+Período desarrollo	24 días
+Fertilidad 38 días

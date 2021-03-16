@@ -1,0 +1,19 @@
+Las abejas son insectos antófilos (Anthophila, 'que aman las flores'). La abejas y avispa, las dos son del orden de Hymenoptera pero que se diferencian en su suborden. Las bejas y abejorros pertenecen a la misma familia, familia Aphidae.
+
+Los abejorros son más grandes y tienen más pelo en sus cuerpos. Esto hace que sean mejores para la polinización que las abejas. Además, al contrario que las abejas, los abejorros no producen miel.
+Las avispas poseen su característica “cintura”, una zona muy estrecha que separa el tórax del abdomen, mientras que en el caso de las abejas el estrechamiento no es tan notable. Además, la abeja tiene apariencia peluda, pues presenta pelillos de queratina en tórax, cara, abdomen y patas, mientras que la avispa no.
+En comparación con otras abejas o avispas, los abejorros son menos agresivos con las personas. Los abejorros casi nunca pican, excepto cuando se sienten amenazados o cuando la colonia está siendo atacada.
+
+Existen mas de 20.000 diferentes especies aunque nosotros nos centraremos solo en una de las especies, en la Apis mellifera, ya que es la especie de abeja que nos proporciona miel y demas recursos.
+
+A continuacion se hace la taxonomía de esta especie:
+- Reino: Animalia
+- Filo: Arthopoda
+- Clase: Insecta
+- Orden: Hymenoptera
+- Suborden:	Apocrita
+- Superfamilia:	Apoidea
+- Familia: Apidae
+- Subfamilia: Apinae
+- Tribu: Apini
+- Género: Apis

@@ -1,0 +1,29 @@
+Nosemosis es un microorganismo, del grupo de los hongos, que parasita las células de la pared interna del intestino de las abejas, destruyéndola. Esa pared es la que produce los jugos gástricos, que ayudan a digerir los alimentos, y la que absorbe los nutrientes para pasarlos a los capilares del sistema de distribución al resto del cuerpo, la hemolinfa. Su destrucción, por lo tanto, impide que las abejas digieran los alimentos y asimilen los nutrientes. Esto las coloca en una situación de desnutrición, las debilita, y, finalmente, dependiendo de una serie de factores, puede provocar su muerte.
+
+Hasta 2004 se consideraba que había dos especies de este microbio que atacaban a las abejas, una occidental, Nosema apis, y otra oriental, asiática, Nosema ceranae. La aplicación de técnicas analíticas moleculares, PCR, ha permitido apreciar que ambas están repartidas por todo el mundo.
+
+Nosema tiene esporas, que son unas pequeñas cápsulas con una cubierta protectora que envuelve a su núcleo reproductor; eso le permite resistir condiciones adversas.
+
+Cuando una espora es ingerida por una abeja, pasa a su interior y llega al intestino. Allí será atacada por los jugos gástricos, que irán debilitando su cubierta. Al final del intestino esa cubierta está muy debilitada, y permite la salida del núcleo, que se incorpora a una célula del intestino y toma el control de sus sistemas vitales. La célula epitelial se ve obligada a cambiar sus patrones, y a dedicarse a fabricar nuevas esporas de nosema. Finalmente, la célula muere, y libera al interior del intestino una gran cantidad de esporas, que infectarán nuevas células intestinales, o saldrán de la abeja con las heces, contagiando a otras abejas.
+
+La presencia de las dos especies de nosema está muy extendida, siendo la más frecuente, actualmente, la forma asiática, Nosema ceranae; según análisis realizados por PCR a nivel de España sus esporas se encuentran en alrededor del 70 % de las colmenas, si bien la mayor parte de las veces solo provocan pérdida de vigor y mortandad cuando hay algún factor estresante (golpe de frío, intoxicación por plaguicidas o residuos de acaricidas, mala nutrición, mala ubicación del colmenar, malos manejos del apicultor, varroa…)
+
+Como se acaba de comentar, la presencia de factores estresantes puede desencadenar una mortandad por nosema. Es importante, pues, evitarlos.
+
+Un factor importantísimo es la ubicación del colmenar. Favorecerá a nosema si está en un sitio poco soleado, umbrío en la época de lluvias o nieblas persistentes. O si está en una zona con frecuentes bajadas bruscas de temperatura en otoño tardío o primavera temprana.
+
+En esas condiciones nosema puede reproducirse de manera fulminante, produciendo daños importantes, mortandades, en algo más de una semana.
+
+Inicialmente un buen síntoma de la presencia de nosema es que el abdomen de una parte importante de las obreras no sobresalga claramente de las alas, en casos extremos que quede más corto que estas, dando a las abejas apariencia de moscas. Este síntoma está provocado por la desnutrición de las abejas, que las obliga a consumir totalmente sus reservas de grasa situadas bajo el 5º anillo dorsal del abdomen (3º a la vista, ya que los dos primeros están encajados dentro del tórax), acortándolo.
+
+Pero este síntoma puede indicar también una mala nutrición por ataque de varroa, que también consume la grasa corporal de sus víctimas; o una mala nutrición por carencia de reservas, miel o/y polen.
+
+Podemos, sin embargo, diferenciar estas causas. En el primer caso, varroa, aparecerá también la cría salpicada, abejas con las alas malformadas… pero habrá reservas de alimentos en los panales, sobre todo de miel. Si la malnutrición está provocada por falta de reservas será fácil apreciar este hecho al revisar los panales de la colmena.
+
+Otro síntoma de nosema es la disminución de la actividad de las abejas, en piquera y en el interior de la colmena.
+
+Nosema apis produce también diarrea, muy líquidas y de color marrón más o menos oscuras, perceptibles en piquera y en el interior de los cuadros como chorretones. Pero este síntoma no aparece con Nosema ceranae.
+
+Para aumentar la certeza podemos hacer una autopsia “de campo” de la colmena, sobre mínimo unas 20 abejas viejas (que tendrán más nosema). Si no hay actividad de piquera las capturaremos de dentro de la colmena, del último cuadro poblado. Si hay actividad de piquera la cerraremos un rato, para permitir que se junten en ella abejas viejas y podamos capturarlas.
+
+Matamos las abejas aplastándoles la cabeza. Sujetamos la cabeza con una mano, y con la otra pinzamos el último anillo con la uña del dedo gordo sobre el índice, giramos media vuelta (unos 180º), y estiramos suavemente. En las abejas sanas saldrán, por ese orden, primero la cloaca (más o menos llena de polen ya digerido), luego el intestino delgado, luego el grueso, y, generalmente, ya se romperá (pocas veces sale el buche de miel, que sería lo siguiente). En las abejas afectadas por nosema solo salen la cloaca y el intestino grueso, el digestivo se rompe en la unión entre este y el grueso, ya que su pared está destruida por la infección. Esta prueba puede hacerse solo con abejas frescas. Si se usan abejas congeladas los cristales de hielo habrán roto los tejidos, cambiando su consistencia. Lo mismo pasará si llevan tiempo muertas y han comenzado a pudrirse.
